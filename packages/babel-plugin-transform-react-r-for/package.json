@@ -1,0 +1,23 @@
+{
+  "name": "@babel/plugin-transform-react-r-for",
+  "version": "0.0.1",
+  "description": "a plugin for react to transform r-for order",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "r-for"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.10.4",
+    "@babel/core": "^7.10.4"
+  },
+  "devDependencies": {
+    "@babel/helper-plugin-test-runner": "^7.10.4"
+  }
+}
