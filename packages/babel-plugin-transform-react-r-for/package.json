@@ -1,5 +1,5 @@
 {
-  "name": "@babel/plugin-transform-react-r-for",
+  "name": "babel-plugin-transform-react-r-for",
   "version": "0.0.1",
   "description": "a plugin for react to transform r-for order",
   "main": "src/index.js",
