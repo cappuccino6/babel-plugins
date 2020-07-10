@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-transform-react-r-if",
+  "name": "@babel/plugin-transform-react-r-if",
   "version": "0.0.1",
   "description": "a bebel plugin for react to transform r-if order",
   "main": "src/index.js",
