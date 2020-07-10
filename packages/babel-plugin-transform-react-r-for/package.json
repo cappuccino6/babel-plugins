@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@babel/helper-plugin-utils": "^7.10.4",
-    "@babel/core": "^7.10.4"
+    "@babel/core": "^7.10.4",
+    "@babel/helper-plugin-utils": "^7.10.4"
   },
   "devDependencies": {
     "@babel/helper-plugin-test-runner": "^7.10.4"
